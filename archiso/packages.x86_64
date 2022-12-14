@@ -374,7 +374,7 @@ qt5ct
 #qt5-webkit
 #powertop
 ripgrep
-rofi
+#rofi
 rxvt-unicode
 #simple-scan
 #shotwell
@@ -917,3 +917,4 @@ arcolinux-foot-git
 azote
 wlprop
 wlr-randr
+rofi-lbonn-wayland-only-git
