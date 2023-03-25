@@ -560,7 +560,7 @@ arcolinux-sway-profile-git
 #arcolinux-termite-themes-git
 #arcolinux-tint2-git
 #arcolinux-tint2-themes-git
-#archlinux-tweak-tool-git
+archlinux-tweak-tool-git
 arcolinux-variety-git
 arcolinux-variety-autostart-git
 arcolinux-volumeicon-git
@@ -791,7 +791,7 @@ arcob-calamares-config-sway-git
 ###########################################################################
 
 accountsservice
-#sddm
+sddm
 arcolinux-sddm-simplicity-git
 
 ###########################################################################
@@ -920,6 +920,3 @@ wlprop
 wlr-randr
 rofi-lbonn-wayland-only-git
 hyprpicker-git
-
-#bug 
-sddm-git
