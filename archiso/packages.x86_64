@@ -255,7 +255,7 @@ poppler-qt5
 #chromium
 #darktable
 #deadbeef
-dmenu
+#dmenu
 #evolution
 feh
 firefox
@@ -272,11 +272,11 @@ imagemagick
 #lshw
 #meld
 #micro
-nitrogen
+#nitrogen
 numlockx
 #pragha
 #qbittorrent
-scrot
+#scrot
 #simplescreenrecorder
 #termite
 variety
@@ -317,13 +317,13 @@ kvantum
 
 ###utilities
 arandr
-asciinema
+#asciinema
 bash-completion
 #baobab
 bat
 #catfish
 #cronie
-dconf-editor
+#dconf-editor
 dex
 #discord
 duf
@@ -359,7 +359,7 @@ libmtp
 laptop-detect
 lsb-release
 mlocate
-#nomacs
+nomacs
 oh-my-zsh-git
 p7zip
 pkgfile
@@ -380,7 +380,7 @@ ripgrep
 rxvt-unicode
 #simple-scan
 #shotwell
-speedtest-cli-git
+#speedtest-cli-git
 #telegram-desktop
 #timeshift
 tlp
@@ -395,12 +395,12 @@ w3m
 webkit2gtk
 wmctrl
 xapp
-xdo
-xdotool
-xdg-desktop-portal-gtk
+#xdo
+#xdotool
+#xdg-desktop-portal-gtk
 #yt-dlp
 #youtube-dl
-zenity
+#zenity
 zsh
 zsh-completions
 zsh-syntax-highlighting
@@ -434,8 +434,8 @@ ttf-ms-fonts
 #numix-icon-theme-git
 #numix-circle-icon-theme-git
 #paper-icon-theme
-sardi-icons
-surfn-icons-git
+#sardi-icons
+#surfn-icons-git
 #surfn-arc-breeze-icons-git
 #zafiro-icon-theme
 
@@ -448,13 +448,13 @@ mkinitcpio-openswap
 ###utilities-repo
 alacritty
 appstream
-archiso
+#archiso
 conky-lua-archers
 downgrade
 #font-manager
 #glxinfo
 #gitahead-bin
-grub-customizer
+#grub-customizer
 hardcode-fixer-git
 inxi
 mintstick-git
@@ -531,7 +531,7 @@ archlinux-logout-git
 #arcolinux-meta-logout
 arcolinux-mirrorlist-git
 arcolinux-neofetch-git
-arcolinux-nitrogen-git
+#arcolinux-nitrogen-git
 #arcolinux-oblogout
 #arcolinux-oblogout-themes-git
 #arcolinux-obmenu-generator-git
@@ -563,7 +563,7 @@ arcolinux-sway-profile-git
 archlinux-tweak-tool-git
 arcolinux-variety-git
 arcolinux-variety-autostart-git
-arcolinux-volumeicon-git
+#arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 #arcolinux-wallpapers-dual-git
 arcolinux-wayland-profile-git
@@ -806,7 +806,7 @@ picom
 
 #mugshot
 #menulibre
-volumeicon
+#volumeicon
 
 ###########################################################################
 #                         ARCOLINUX ISO SPECIFIC
@@ -913,10 +913,34 @@ thunar-archive-plugin
 ###########################################################################
 #                                ISO SPECIFIC
 ###########################################################################
-autorandr
 arcolinux-foot-git
+arcolinux-kitty-git
+arcolinux-nwg-drawer-git
 azote
+bashtop
+foot
+grimshot
+hyprpicker-git
+kitty
+mako
+micro
+nwg-drawer-bin
+pamixer
+rofi-lbonn-wayland-only-git
+#sway
+#swaybg
+swayidle
+swaylock
+ttf-iosevka-nerd
+waybar
+wayland
 wlprop
 wlr-randr
-rofi-lbonn-wayland-only-git
-hyprpicker-git
+#wlroots
+xdg-desktop-portal-wlr
+xorg-xwayland
+
+# own config
+sway-dev
+wlroots-git
+swaybg-git
