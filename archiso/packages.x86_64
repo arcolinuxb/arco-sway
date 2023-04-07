@@ -934,7 +934,7 @@ swaylock
 ttf-iosevka-nerd
 waybar
 wayland
-wf-recorder
+wf-recorder-git
 wlprop
 wlr-randr
 #wlroots
